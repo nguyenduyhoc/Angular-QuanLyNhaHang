@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNH_APIs", "QLNH_APIs\QLNH_APIs.csproj", "{44BFDBFF-3E74-4C92-950A-CC4AE332CF0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNH_APIs", "QLNH_APIs\QLNH_APIs.csproj", "{209E3471-3777-40F4-8029-3D77987D8907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{44BFDBFF-3E74-4C92-950A-CC4AE332CF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44BFDBFF-3E74-4C92-950A-CC4AE332CF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44BFDBFF-3E74-4C92-950A-CC4AE332CF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44BFDBFF-3E74-4C92-950A-CC4AE332CF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209E3471-3777-40F4-8029-3D77987D8907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209E3471-3777-40F4-8029-3D77987D8907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209E3471-3777-40F4-8029-3D77987D8907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209E3471-3777-40F4-8029-3D77987D8907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CC6A1927-E7E9-45B7-B264-C7F22295F4D4}
+		SolutionGuid = {116A9125-E815-4F91-A3B4-E88FE4B73DEC}
 	EndGlobalSection
 EndGlobal
